@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # `Cristian Ortiz Jimenez ` 👋
 
 **Software Development Student | Full-Stack Developer | Front-End Enthusiast**
