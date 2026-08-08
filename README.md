@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# `<Cristian Ortiz Jimenez />` 👋
+# `Cristian Ortiz Jimenez ` 👋
 
 **Software Development Student | Full-Stack Developer | Front-End Enthusiast**
 
